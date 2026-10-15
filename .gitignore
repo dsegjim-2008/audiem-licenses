@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.pem
+*.key
+*.license.json
+issued/
+.env
+node_modules/

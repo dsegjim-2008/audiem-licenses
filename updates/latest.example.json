@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Primera publicación.",
+  "pub_date": "2026-10-15T00:00:00.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "FIRMA_TAURI_DEL_INSTALADOR",
+      "url": "https://github.com/dsegjim-2008/audiem-licenses/releases/download/v0.1.0/Audiem_0.1.0_x64-setup.nsis.zip"
+    }
+  }
+}
